@@ -66,7 +66,11 @@ let result2 = addNum(10, 2)
 
     val1 - 10
     val2 - 5
-    addNum - newvariable environment + Execution thread 
+    addNum - newvariable environment + Execution thread  
+    Result1 = 15
+    Result2 = 
+    if work is done the value is deleted 
+
 
     after this addnum memory phase again comes 
 
@@ -80,6 +84,24 @@ let result2 = addNum(10, 2)
             num2 - 5
 
             total - 15
+
+
+NEW VARIABLE ENVIRONMENT 
++ 
+Thread 
+
+MP(Memory phase , execution phase)
+
+
+---------------------- CALLS TAGS ---------------------------
+
+//Global Environment 
+ONE METHOD () 
+
+Two ()
+Three ()
+ 
+Complexity comes when in LIFO U call all 1, 2, 3 
 
 
 */
